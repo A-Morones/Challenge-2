@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+}
+
+.header {
+    padding: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(154, 178, 242);
+    color: black
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 50px;
+}
+
+.header div {
+    padding-top: 20px;
+    margin-right: 10px;
+    float: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header div ul {
+    list list-style-type: none;
+}
+
+.header div ul li {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.about-me {
+    margin-bottom: 25px;
+    padding: 50px;
+    height: 200px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #7db6d5;
+    color: black;
+}
+.about-me-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+.box {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.work{
+    margin-bottom: 25px;
+    padding: 50px;
+    height: 200px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #7db6d5;
+    color: black;
+}
+.work-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.contact-me {
+    margin-bottom: 25px;
+    padding: 50px;
+    height: 200px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #7db6d5;
+    color: black;
+}
+.contact-me-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.resume {
+    margin-bottom: 25px;
+    padding: 50px;
+    height: 200px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #7db6d5;
+    color: black;
+}
+.resume-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
